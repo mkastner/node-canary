@@ -1,0 +1,9 @@
+{
+  "name": "canary-node",
+  "version": "0.0.1",
+  "description": "simple server to check if node environment runs",
+  "main": "index.js",
+  "repository": "https://github.com/mkastner/node-canary.git",
+  "author": "John Galt",
+  "license": "MIT"
+}
